@@ -28,3 +28,10 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 - Appropriately label the data set with descriptive variable names__
 
 - From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject
+
+**Files**
+CodeBook.md provides information on the variables, data, and any transformations or work that I performed to clean up the data
+
+run_analysis.R includes the code for the R script to clean up the data
+
+tidydata.txt is the output from the run_analysis.R script
